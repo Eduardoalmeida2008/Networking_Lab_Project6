@@ -6,7 +6,7 @@ Advanced Networking Lab with 2 routers, 4 switches, 6 VLANs, and DHCP configurat
 ## Lab Overview
 This lab demonstrates an advanced network setup using:
 - 2 Routers (R1, R2)
-- 4 Switches (Switch1, Switch2, Switch3, SwitchCore)
+- 4 Switches (Switch1, Switch2, Switch3, Switch4)
 - 6 VLANs (VLAN10, VLAN20, VLAN30, VLAN40, VLAN50, VLAN60)
 - DHCP configuration for all VLANs
 - Inter-VLAN routing
