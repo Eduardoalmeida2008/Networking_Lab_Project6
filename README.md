@@ -22,8 +22,6 @@ This lab demonstrates an advanced network setup using:
 
 ## Topology
 - Each access switch connects PCs in a "U" formation for clarity
-- SwitchCore connects all access switches
-- Routers connect to SwitchCore and provide routing between VLANs
 - VLAN10–VLAN40 handled by R1 (centralized DHCP)
 - VLAN50–VLAN60 handled by R2 (with DHCP relay when necessary)
 
@@ -38,7 +36,7 @@ This lab demonstrates an advanced network setup using:
 - `VLAN_Config_Switch1.png`
 - `VLAN_Config_Switch2.png`
 - `VLAN_Config_Switch3.png`
-- `VLAN_Config_SwitchCore.png`
+- `VLAN_Config_Switch4.png`
 
 ### 2. Router Configuration
 - `R1_RunningConfig.png` (show running-config)
